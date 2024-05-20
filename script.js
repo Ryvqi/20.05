@@ -11,4 +11,5 @@ function kirimData(){
         "\nPeminatan : " +peminatan+
         "\nAlamat : " + alamat
     )
+
 }
